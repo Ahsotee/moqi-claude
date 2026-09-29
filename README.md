@@ -22,6 +22,9 @@ Pas de compte ? Il se crée sur https://moqi.fr.
 - « Où en est mon découpage ? »
 - « Programme le clip 2 pour mardi 18 h. »
 - « Combien de vues ont fait mes dernières vidéos TikTok ? »
+- « Pourquoi ce clip a 62 ? Il y avait d'autres bons moments ? »
+- « Passe mon pilote à trois vidéos par semaine, le soir. »
+- « Supprime le clip 4, il est raté. » (Claude te demande d'abord ton accord.)
 
 ## Ce que ça coûte
 
