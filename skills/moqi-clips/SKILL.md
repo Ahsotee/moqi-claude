@@ -5,7 +5,7 @@ description: Découper une vidéo YouTube ou Twitch en clips verticaux avec Moqi
 
 # Travailler avec Moqi
 
-Moqi transforme une vidéo longue en clips verticaux sous-titrés, recadrés sur la personne qui parle. Les outils `moqi_*` viennent du serveur MCP de Moqi (`https://moqi.fr/api/mcp`). Au premier appel, Claude Code demande de se connecter : lancer `/mcp` et choisir Moqi ouvre la page d'autorisation de Moqi.
+Moqi transforme une vidéo longue en clips verticaux sous-titrés, recadrés sur la personne qui parle. Les outils `moqi_*` viennent du serveur MCP de Moqi (`https://moqi.fr/api/mcp`). Tant que le compte n'est pas connecté, Claude Code indique que Moqi demande une connexion : lancer `/mcp` et choisir Moqi ouvre la page d'autorisation de Moqi.
 
 ## Ce qui coûte, et comment ne pas payer deux fois
 
