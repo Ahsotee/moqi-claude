@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "moqi": {
+      "type": "http",
+      "url": "https://moqi.fr/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "moqi",
+  "displayName": "Moqi",
+  "version": "1.0.0",
+  "description": "Découpe tes vidéos YouTube et Twitch en clips verticaux sous-titrés, programme leurs sorties TikTok et lis leurs chiffres, depuis Claude Code.",
+  "author": {
+    "name": "Moqi",
+    "email": "contact@moqi.fr",
+    "url": "https://moqi.fr"
+  },
+  "homepage": "https://moqi.fr/developpeurs",
+  "repository": "https://github.com/Ahsotee/moqi-claude",
+  "license": "MIT",
+  "keywords": ["clips", "tiktok", "youtube", "shorts", "reels", "sous-titres", "video"]
+}

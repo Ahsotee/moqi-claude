@@ -1,0 +1,18 @@
+{
+  "name": "moqi",
+  "owner": {
+    "name": "Moqi",
+    "email": "contact@moqi.fr",
+    "url": "https://moqi.fr"
+  },
+  "description": "Le plugin officiel de Moqi pour Claude Code.",
+  "plugins": [
+    {
+      "name": "moqi",
+      "source": "./",
+      "description": "Découpe tes vidéos en clips verticaux sous-titrés et programme leurs sorties TikTok, depuis Claude Code.",
+      "category": "video",
+      "tags": ["clips", "tiktok", "youtube", "mcp"]
+    }
+  ]
+}
