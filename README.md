@@ -23,7 +23,8 @@ Pas de compte ? Il se crée sur https://moqi.fr.
 - « Programme le clip 2 pour mardi 18 h. »
 - « Combien de vues ont fait mes dernières vidéos TikTok ? »
 - « Pourquoi ce clip a 62 ? Il y avait d'autres bons moments ? »
-- « Passe mon pilote à trois vidéos par semaine, le soir. »
+- « Qu'est-ce que mon coach me fait poster cette semaine ? Passe mon rythme à trois vidéos. »
+- « Combien j'ai gagné avec Moqi ? Donne-moi mon lien d'affiliation. »
 - « Supprime le clip 4, il est raté. » (Claude te demande d'abord ton accord.)
 - « Combien me coûterait une vidéo IA par jour pendant un mois ? Quelle formule me couvre ? »
 - « Fais-moi une série de 4 épisodes avec le même personnage, et dis-moi le prix avant. »
