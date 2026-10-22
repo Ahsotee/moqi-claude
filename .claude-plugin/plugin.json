@@ -1,7 +1,7 @@
 {
   "name": "moqi",
   "displayName": "Moqi",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Découpe tes vidéos YouTube et Twitch en clips verticaux sous-titrés, génère des vidéos et des images par IA, programme leurs sorties TikTok, lis leurs chiffres, suis ton Coach TikTok et tes gains, et pilote ton compte Moqi, depuis Claude Code.",
   "author": {
     "name": "Moqi",

@@ -60,7 +60,7 @@ Chaque erreur porte `reessayable` :
 
 ## Programmer et publier
 
-- `moqi_programmer` pose une sortie dans l'agenda, que la personne publiera elle-même : le clip se désigne par son découpage et sa position, jamais par un identifiant de clip ; une vidéo générée par `moqi_creer` se désigne par `creation`.
+- `moqi_programmer` pose une sortie dans l'agenda, et Moqi la publie tout seul à l'heure dite, avec les réglages TikTok que la personne a déjà choisis sur moqi.fr. Seulement à sa demande ; `rappel: true` si elle dit qu'elle la postera elle-même. La réponse dit `part_seule` : sinon c'est un rappel, et `note` dit quoi lui dire. Le clip se désigne par son découpage et sa position, jamais par un identifiant de clip ; une vidéo générée par `moqi_creer` se désigne par `creation`.
 - `moqi_publier` fait partir un clip ou une vidéo générée, mais pas sur le champ : il pose une sortie armée que Moqi envoie dans quelques minutes (ou à l'heure donnée), et il exige que la personne ait déjà réglé ses paramètres TikTok sur moqi.fr. Ne jamais remplir ces réglages à sa place, ne publier que sur sa demande, et ne jamais dire que la vidéo est déjà en ligne.
 - Une IMAGE générée part, elle, tout de suite en post photo sur TikTok (toutes ses images, ou celles de `rangs`), sans heure. Une vidéo qui n'est pas en 9:16 part avec des bandes : la réponse le dit dans `avertissement`, le lui répéter.
 - Pour relier un compte TikTok, `moqi_relier_un_compte` rend un lien que la personne ouvre elle-même.
